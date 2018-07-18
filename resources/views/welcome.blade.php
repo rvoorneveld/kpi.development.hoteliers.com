@@ -36,7 +36,7 @@
                                 63,
                                 69,
                                 84,
-                                84,
+                                86,
                             ],
                             yAxisID: 'y-axis-1',
                             backgroundColor: [
